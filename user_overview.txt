@@ -1,0 +1,9 @@
+Total users			:1
+Total tasks			:2
+
+admin
+Tasks assigned			:2
+Tasks assigned of total tasks	:100.0%
+Tasks assigned completed	:0.0%
+Tasks assigned incomplete	:100.0%
+Tasks assigned overdue		:100.0%
