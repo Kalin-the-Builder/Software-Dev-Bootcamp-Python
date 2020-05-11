@@ -1,5 +1,6 @@
 # Software-Dev-Bootcamp
 CoGrammar Software Engineering Bootcamp
+Python:
 L1Task12 - Capstone Project I:
          - finance_calculator.py
          
@@ -16,6 +17,7 @@ L1Task25 Capstone Project IV:
          - tasks.txt
          - user.txt
 
+Java:
 L2Task7 Capstone Project I:
          - Main.java
          - Person.java
