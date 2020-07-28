@@ -1,24 +1,17 @@
-# Software-Dev-Bootcamp
+# Software-Dev-Bootcamp-Python
 
-CoGrammar Software Engineering Bootcamp
-
-L1Task12 - Capstone Project I:
-         - finance_calculator.py
+- Capstone Project I:
+- finance_calculator.py
          
-L1Task15 - Capstone Project II:
-         - game.py
-         - monster.jpg
-         - player.jpg
-         - prize.jpg
+Capstone Project II:
+- game.py
+- monster.jpg
+- player.jpg
+- prize.jpg
 
-L1Task25 Capstone Project IV:
-         - task_manager.py
-         - task_overview.txt
-         - user_overview.txt
-         - tasks.txt
-         - user.txt
-
-L2Task7 Capstone Project I:
-         - Main.java
-         - Person.java
-         - Project.java
+Capstone Project IV:
+- task_manager.py
+- task_overview.txt
+- user_overview.txt
+- tasks.txt
+- user.txt
