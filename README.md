@@ -9,7 +9,7 @@ Capstone Project II:
 - player.jpg
 - prize.jpg
 
-Capstone Project IV:
+Capstone Project III & IV:
 - task_manager.py
 - task_overview.txt
 - user_overview.txt
