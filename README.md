@@ -1,6 +1,6 @@
 # Software-Dev-Bootcamp-Python
 
-- Capstone Project I:
+Capstone Project I:
 - finance_calculator.py
          
 Capstone Project II:
